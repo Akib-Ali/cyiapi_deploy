@@ -1,0 +1,28 @@
+{
+
+    "studentdata":[
+
+        {
+            "name": "Akib Ali",
+            "age": "24 year",
+            "profession": "software engineer"
+        },
+
+        {
+            "name": "Shoib Ali",
+            "age": "28 year",
+            "profession": "hardware engineer"
+        },
+        {
+            "name": "Parun Jain",
+            "age": "19 year",
+            "profession": "software engineer"
+        },
+        {
+            "name": "Usman Umar",
+            "age": "30 year",
+            "profession": "Civil engineer"
+        }
+
+    ]
+}
